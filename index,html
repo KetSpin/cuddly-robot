@@ -1,10 +1,16 @@
-<!DOCTYPE html>
-<html lang='ru'>
-<head>
-  <meta charset='UTF-8'>
-  <title>simple_project</title>
-</head>
-<body>
-  <h1>Hello, World!</h1>
-</body>
-</html>
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>мир пончиков</title>
+  <style type="text/css">
+   h1 { 
+    color: #ff0000;
+   }
+  </style>
+ </head> 
+ <body>
+
+   <H1>Мир пончиков</H1>
+
+ </body>
