@@ -1,16 +1,12 @@
 <!DOCTYPE HTML>
 <html>
- <head>
-  <meta charset="utf-8">
-  <title>мир пончиков</title>
-  <style type="text/css">
-   h1 { 
-    color: #ff0000;
-   }
-  </style>
- </head> 
- <body>
-
-   <H1>Мир пончиков</H1>
-
- </body>
+<head>
+    <meta charset="utf-8">
+    <title>мир пончиков</title>
+</head> 
+<body>
+<div style="text-align:center">
+<H1>Мир пончиков</H1>
+<img src="/uploads/2023/02/donut.png">
+</div>
+</body>
